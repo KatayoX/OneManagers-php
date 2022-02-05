@@ -1,6 +1,6 @@
-[中文readme](readme_cn.md)  
+readme_cn.md
 
-# NOTICE: 
+#NOTICE
 
   The Releases is used as archive, not newest code.  
 
